@@ -1,0 +1,49 @@
+.grid{
+  display: flex; 
+  flex-wrap:wrap;
+  width:560px ;
+  height:560px ;
+  border:solid black ;
+
+}
+.grid div{
+  width:20px ;
+  height:20px ;
+}
+.pac-dot {
+  background-color: green;
+  border:5px solid #F8F1F1;
+  box-sizing: border-box;
+}
+.wall{
+  background-color: #11698E;
+}
+.power-pellet {
+  background-color: #16C79A;
+  border-radius: 10px;
+}
+.blinky{
+ background-color:#C93737 ;
+ border: 0px;
+}
+.pinky{
+ background-color:#FFBDD4 ;
+ border: 0px;
+}
+.inky{
+ background-color:#9900c8;
+ border: 0px;
+}
+.clyde{
+ background-color:#F79327 ;
+ border: 0px;
+}
+.scared-ghost{
+ background-color:#A3DDCB ;
+ border:0px;
+}
+
+.pac-man{
+ background-color:#F6EC72 ;
+ border-radius: 10px;
+}
